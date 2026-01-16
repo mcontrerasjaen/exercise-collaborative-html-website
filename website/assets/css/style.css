@@ -38,3 +38,8 @@ img {
 .first-heading-paragraph {
     font-size: medium;
 }
+
+/*---footer---*/
+footer{
+    text-align: center;
+}
